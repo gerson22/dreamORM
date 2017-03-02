@@ -1,0 +1,13 @@
+{
+    "name": "gerson22/dream-orm",
+    "description": "ORM for PHP currently Mysql",
+    "type": "php",
+    "authors": [
+        {
+            "name": "gerson22",
+            "email": "gerson.isaias.rivera@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
