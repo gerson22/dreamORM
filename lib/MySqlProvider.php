@@ -1,5 +1,9 @@
 <?php
-
+/*
+*
+* MysqlProvider
+*
+*/
 class MySqlProvider extends DatabaseProvider {
     public function connect($host, $user, $pass, $dbname) {
         $this->resource = new mysqli($host, $user, $pass, $dbname);
